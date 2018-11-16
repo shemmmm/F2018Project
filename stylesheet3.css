@@ -1,5 +1,3 @@
-
-}
 table {width:65%;
 		margin-left:auto;
 		margin-right:auto;}
@@ -13,6 +11,6 @@ table {width:65%;
 
 		.menupipe {width:1%;}
 
-	body {
-	background-image:url("images/back.jpg");
-	font-family:"Comic Sans MS", cursive, sans-serif;}
+body {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
