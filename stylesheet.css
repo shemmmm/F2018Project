@@ -15,3 +15,7 @@ table {width:65%;
 	body {
 	background-image:url("images/back.jpg");
 	font-family:"Comic Sans MS", cursive, sans-serif;}
+
+.w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}

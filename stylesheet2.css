@@ -9,11 +9,13 @@ table {width:65%;
 
 		.menuwordselect {width:23%; font-weight:bolder; font-style:italic;}
 
-		.menupipe {width:1%;
+		.menupipe {width:1%;}
 
-}
 
 body{
 	background-image:url("images/eggg.jpg");
 	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
